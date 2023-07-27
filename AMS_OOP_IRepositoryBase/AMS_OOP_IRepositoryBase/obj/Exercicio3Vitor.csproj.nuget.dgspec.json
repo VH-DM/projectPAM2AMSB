@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gener\\Downloads\\exercicios\\Exercicio3Vitor\\Exercicio3Vitor.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gener\\Downloads\\exercicios\\Exercicio3Vitor\\Exercicio3Vitor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gener\\Downloads\\exercicios\\Exercicio3Vitor\\Exercicio3Vitor.csproj",
+        "projectName": "Exercicio3Vitor",
+        "projectPath": "C:\\Users\\Gener\\Downloads\\exercicios\\Exercicio3Vitor\\Exercicio3Vitor.csproj",
+        "packagesPath": "C:\\Users\\Gener\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gener\\Downloads\\exercicios\\Exercicio3Vitor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gener\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Gener\Downloads\exercicios\Exercicio3Vitor\bin\Debug\net6.0\Exercicio3Vitor.exe
+C:\Users\Gener\Downloads\exercicios\Exercicio3Vitor\bin\Debug\net6.0\Exercicio3Vitor.deps.json
+C:\Users\Gener\Downloads\exercicios\Exercicio3Vitor\bin\Debug\net6.0\Exercicio3Vitor.runtimeconfig.json
+C:\Users\Gener\Downloads\exercicios\Exercicio3Vitor\bin\Debug\net6.0\Exercicio3Vitor.dll
+C:\Users\Gener\Downloads\exercicios\Exercicio3Vitor\bin\Debug\net6.0\Exercicio3Vitor.pdb
+C:\Users\Gener\Downloads\exercicios\Exercicio3Vitor\obj\Debug\net6.0\Exercicio3Vitor.csproj.AssemblyReference.cache
+C:\Users\Gener\Downloads\exercicios\Exercicio3Vitor\obj\Debug\net6.0\Exercicio3Vitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gener\Downloads\exercicios\Exercicio3Vitor\obj\Debug\net6.0\Exercicio3Vitor.AssemblyInfoInputs.cache
+C:\Users\Gener\Downloads\exercicios\Exercicio3Vitor\obj\Debug\net6.0\Exercicio3Vitor.AssemblyInfo.cs
+C:\Users\Gener\Downloads\exercicios\Exercicio3Vitor\obj\Debug\net6.0\Exercicio3Vitor.csproj.CoreCompileInputs.cache
+C:\Users\Gener\Downloads\exercicios\Exercicio3Vitor\obj\Debug\net6.0\Exercicio3Vitor.dll
+C:\Users\Gener\Downloads\exercicios\Exercicio3Vitor\obj\Debug\net6.0\refint\Exercicio3Vitor.dll
+C:\Users\Gener\Downloads\exercicios\Exercicio3Vitor\obj\Debug\net6.0\Exercicio3Vitor.pdb
+C:\Users\Gener\Downloads\exercicios\Exercicio3Vitor\obj\Debug\net6.0\Exercicio3Vitor.genruntimeconfig.cache
+C:\Users\Gener\Downloads\exercicios\Exercicio3Vitor\obj\Debug\net6.0\ref\Exercicio3Vitor.dll
